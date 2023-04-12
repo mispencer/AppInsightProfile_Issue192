@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleProfileIssue", "SimpleProfileIssue.csproj", "{054A4DE6-1F29-44A9-801D-69353C93ECFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{054A4DE6-1F29-44A9-801D-69353C93ECFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{054A4DE6-1F29-44A9-801D-69353C93ECFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{054A4DE6-1F29-44A9-801D-69353C93ECFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{054A4DE6-1F29-44A9-801D-69353C93ECFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
